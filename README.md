@@ -1,2 +1,16 @@
-# Automated_Email_Sender_-Python_Automation-
-This Python script securely sends automated emails via Gmail’s SMTP server. It uses `dotenv` to hide credentials in a `.env` file for safety and `SMTP_SSL` for encrypted communication. With built-in error handling and a modular design, it’s a reliable tool for sending notifications, reports, or project updates programmatically.  
+# Automated Email Sender (Python)
+
+This project is a Python automation script that sends emails automatically
+using SMTP. It can be used for notifications, reports, and alerts.
+
+## Skills Used
+- Python
+- Email Automation
+- SMTP
+- Automation Workflows
+
+## How to Run
+1. Update email credentials in the script
+2. Run:
+   python email_sender.py
+3. Email will be sent automatically
